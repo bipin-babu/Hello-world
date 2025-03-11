@@ -1,3 +1,3 @@
 # Hello-world
 This is a repository to practice github flow
-This is atest commit I'm making here, learning new rhings feel nice.
+This is a test commit I'm making here, learning new things feel nice.
